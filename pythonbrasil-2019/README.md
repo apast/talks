@@ -36,7 +36,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Otimizando sistemas em Python com Kibana, Elasticsearch e APM**](./talks/otimizando-sistemas-em-python-com/) - Bruno Gomes França [slides](./talks/otimizando-sistemas-em-python-com/pybr2019-bruno-gomes-franca-otimizando-sistemas-em-python-com.pdf)
 
 
-- [**Controle de Backups e rotinas com Django e Fabric**](./talks/controle-de-backups-e-rotinas/) - Camilla Martins [slides](https://docs.google.com/presentation/d/1JwJyaVXWvQ3pbXixEcnC2VQVgySLwtdoX0uHKvpAaxQ/edit?usp=sharing)
+- [**Controle de Backups e rotinas com Django e Fabric**](./talks/controle-de-backups-e-rotinas/) - Camilla Martins [slides](./talks/controle-de-backups-e-rotinas/pybr2019-camilla-martins-controle-de-backups-e-rotinas.pdf)
 
 
 - [**Desvendando a caixa preta do MongoDB**](./talks/desvendando-a-caixa-preta-do/) - Danielle Monteiro [slides](https://drive.google.com/open?id=1WJV4UVSnuwdFxTkLMEFDuyEriE_m9E3N)

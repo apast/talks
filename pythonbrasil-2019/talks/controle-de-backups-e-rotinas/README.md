@@ -10,7 +10,7 @@ A palestra **Controle de Backups e rotinas com Django e Fabric** foi apresentada
 
 ### Slides
 
-Acesse os slides: **[Controle de Backups e rotinas com Django e Fabric](https://docs.google.com/presentation/d/1JwJyaVXWvQ3pbXixEcnC2VQVgySLwtdoX0uHKvpAaxQ/edit?usp=sharing)**
+Acesse os slides: **[Controle de Backups e rotinas com Django e Fabric](./pybr2019-camilla-martins-controle-de-backups-e-rotinas.pdf)**
 
 
 
